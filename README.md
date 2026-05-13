@@ -6,7 +6,7 @@ A personal developer portfolio website showcasing projects, skills, and backgrou
 
 ## Live Site
 
-[https://alphaprofile.netlify.app](https://alphaprofile.netlify.app)
+[(https://sbonga04.github.io/alphaprofile/)])
 
 ---
 
